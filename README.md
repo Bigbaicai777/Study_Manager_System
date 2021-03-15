@@ -1,1 +1,1 @@
-# Study_Manager_System
+# 项目采用 mybatis spring springmvc 框架，mysql 数据库，项目主要有专业计划管理，考试管理，课程管理三大模块，我负责数据库设计和其中一部分的功能开发，另外还负责配置开发环境，将代码部署在服务器上。
